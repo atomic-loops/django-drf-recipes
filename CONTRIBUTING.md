@@ -36,11 +36,45 @@ Each recipe follows a consistent format:
 
 We have completed several recipes in the following sections:
 
-- Setup & Foundation (3 recipes)
-- Serializers Deep Dive (2 recipes)
-- Views & ViewSets (1 recipe)
-- Authentication & Permissions (2 recipes)
-- Performance & Optimization (1 recipe)
+- Setup & Foundation (3/3 recipes completed)
+- Serializers Deep Dive (6/6 recipes completed)
+- Views & ViewSets (4/4 recipes completed)
+- Routers & URLConf (4/4 recipes completed)
+- Authentication & Permissions (2/5 recipes completed)
+- Performance & Optimization (1/4 recipes completed)
+
+## Priority Areas for Contributions
+
+The following areas would benefit from additional recipes:
+
+1. Remaining recipes in Authentication & Permissions
+   - Throttling
+   - Role-Based Access Control
+   - OAuth2 Integration
+
+2. Advanced Querying & Filtering section
+   - Filtering with django-filter
+   - Searching with SearchFilter
+   - Ordering Results
+   - Pagination Techniques
+   - User-Based Filtering
+
+3. Relations & Nested Resources section
+   - Many-to-Many and Reverse Relations
+   - Inline Nested Writes
+   - Nested Routing with drf-nested-routers
+   - Optimizing Related Fields
+
+4. Testing DRF APIs section
+   - Using APITestCase
+   - Testing Endpoints with Authentication
+   - Using APIClient
+   - Test Data with Factory Boy
+
+5. Remaining recipes in Performance & Optimization
+   - Query Optimization
+   - Caching Responses
+   - Throttling Requests
 
 ## How to Contribute
 
@@ -49,16 +83,6 @@ We have completed several recipes in the following sections:
 3. Fork the repository and create a new branch
 4. Write your recipe following the established format
 5. Submit a pull request
-
-## Priority Areas for Contributions
-
-The following areas would benefit from additional recipes:
-
-1. Routers & URLConf section
-2. Remaining recipes in Serializers Deep Dive
-3. More recipes in Views & ViewSets
-4. API Documentation section
-5. Deployment Considerations section
 
 ## Code Style
 
