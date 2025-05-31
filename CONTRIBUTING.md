@@ -4,23 +4,23 @@ This document outlines the structure of the Django DRF Cookbook and provides gui
 
 ## Repository Structure
 
-The cookbook is organized into sections, each focusing on a specific aspect of Django REST Framework:
+The cookbook is organized into sections, each focusing on a specific aspect of Django REST Framework. All section folders are now located at the root level of the repository:
 
-1. **Setup & Foundation** - Basic setup and first steps with DRF
-2. **Serializers Deep Dive** - Different serializer types and advanced usage
-3. **Views & ViewSets** - Various view implementations and patterns
-4. **Routers & URLConf** - URL routing and organization
-5. **Authentication & Permissions** - Securing your API
-6. **Advanced Querying & Filtering** - Search, filter, and pagination
-7. **Relations & Nested Resources** - Handling model relationships
-8. **Testing DRF APIs** - Testing strategies and tools
-9. **Performance & Optimization** - Improving API performance
-10. **Real-World Patterns** - Common real-world implementation patterns
-11. **API Documentation** - Documenting your API
-12. **Async & Background Tasks** - Handling long-running operations
-13. **Deployment Considerations** - Production deployment tips
-14. **Security Practices** - Securing your API further
-15. **Bonus Topics** - Additional advanced topics
+1. **01-setup-foundation** - Basic setup and first steps with DRF
+2. **02-serializers** - Different serializer types and advanced usage
+3. **03-views-viewsets** - Various view implementations and patterns
+4. **04-routers-urlconf** - URL routing and organization
+5. **05-authentication-permissions** - Securing your API
+6. **06-querying-filtering** - Search, filter, and pagination
+7. **07-relations-nested** - Handling model relationships
+8. **08-testing** - Testing strategies and tools
+9. **09-performance** - Improving API performance
+10. **10-real-world-patterns** - Common real-world implementation patterns
+11. **11-api-documentation** - Documenting your API
+12. **12-async-background** - Handling long-running operations
+13. **13-deployment** - Production deployment tips
+14. **14-security** - Securing your API further
+15. **15-bonus** - Additional advanced topics
 
 ## Recipe Format
 
