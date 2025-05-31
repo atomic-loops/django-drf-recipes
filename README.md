@@ -29,6 +29,7 @@ Each recipe follows a consistent format:
     - [Exception Handling](02-core-concepts/03-exception-handling.md)
     - [Status Codes](02-core-concepts/04-status-codes.md)
     - [Middleware](02-core-concepts/05-middleware.md)
+    - [Model Fields: Types & Usage](02-core-concepts/06-model-fields.md)
 
 3. [Serializers Deep Dive](03-serializers/README.md)
    - [ModelSerializer vs Serializer](03-serializers/01-modelserializer-vs-serializer.md)
